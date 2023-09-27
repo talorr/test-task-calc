@@ -1,6 +1,6 @@
 # Инструкция
 
-В удобной директории терминала ввести(либо скачать проект):
+В удобной директории терминала ввести(либо скачать проект по ссылке https://github.com/talorr/test-task-calc/archive/refs/heads/main.zip):
 
 ```bash
 git clone https://github.com/talorr/test-task-calc
